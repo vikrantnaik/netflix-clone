@@ -1,0 +1,99 @@
+
+
+body{ 
+   margin: 0;padding: 0;
+   background-color: black;
+   font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+.main{
+    background-color: black;
+    background-image: url(/IN-en-20211108-popsignuptwoweeks-perspective_alpha_website_small.jpg);
+    background-repeat: no-repeat;
+    opacity: 1;
+    height: 100vh;
+}
+
+.logo{
+    height: 80px;
+
+}
+.fluid-container{
+    display: flex;
+
+    
+}
+.nav-right{
+    margin: 0;
+    float: right;
+    margin-right: 50px;
+    margin-top: 20px;
+    
+    
+
+}
+
+nav{
+    width: 100%;
+    height: 100px;
+   /* background-color:#231F20; */
+   
+    margin: 0;
+    padding: 0;
+   
+}
+
+.container{
+              color: white;
+              display: flexbox;
+              /* justify-content: center; */
+              text-align: center;
+              margin-top: 120px;
+}
+
+h1{
+    font-size:  75px;
+    height: 77px;
+
+}
+h3{
+    font-size: 30px;
+    height: 20px;
+}
+p{
+    font-size: 20px;
+}
+
+#button{
+    background-color: red;
+    border: red;
+    padding: auto;
+    width: 15%;
+    font-size: 1.4rem;
+    color: white;
+}
+
+.form{display: flex;
+justify-content: center;
+height: 70px;
+width: 100%;
+}
+
+.email{
+    width:30%;
+}
+.sin{
+    background-color: red;
+    border: red;
+    border-radius: 3px;
+    height: 30px;
+    width: 80px;
+    font-size: 1rem;
+    color: white;
+}
+
+.lan{ 
+height: 30px;
+width: 80px;
+background-color: black;
+color: white;
+font-size: 1rem;}
